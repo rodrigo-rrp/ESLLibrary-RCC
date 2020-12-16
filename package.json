@@ -1,0 +1,14 @@
+{
+  "name": "@rodrigo-rrp/esllibrary-rcc",
+  "version": "1.0.5",
+  "description": "React Common Components for ESLLibrary apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/rodrigo-rrp"
+  }
+}
